@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\cv\Project1\Project1\Source.cpp(27,72): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+C:\cv\Project1\Project1\Source.cpp(27,72): warning C4244:         with
+C:\cv\Project1\Project1\Source.cpp(27,72): warning C4244:         [
+C:\cv\Project1\Project1\Source.cpp(27,72): warning C4244:             _Tp=uchar
+C:\cv\Project1\Project1\Source.cpp(27,72): warning C4244:         ]
+  Project1.vcxproj -> C:\cv\Project1\x64\Debug\Project1.exe
